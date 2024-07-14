@@ -1,0 +1,5 @@
+First_Name = input("Enter your first name: ")
+Second_Name = input("Enter your last name: ")
+Age = input("Enter your age: ")
+Password = input("Enter your password: ")
+print('password' * '*')
