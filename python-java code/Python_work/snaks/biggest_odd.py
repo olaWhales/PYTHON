@@ -1,10 +1,21 @@
 def biggest(number):
-	odd = [num for num in number if num % 2 == 1]
-	print(max(odd))
+	numbers = number.split()
+	integer_list = [int (num) for num in numbers]
+	odd_numbers = [num for num in integer_list if num % 2 != 0]
+	if odd_numbers:
+
+		return max(odd_numbers)
 
 
-largest = [131,31,12,900,61]
-biggest(largest)
+
+
+
+
+number =input("Enter number seperating with a space: ")
+result = biggest(number)
+print (result)
+
+	
 
 
 
