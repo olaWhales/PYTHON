@@ -3,9 +3,12 @@
 #print the input
 
 def two_integer(letter):
-	result = letter.count
-	return result
+	number = 0
+	for count in range letter:
+		number = count
+		number.count
+	return number
 
-
-print(two_integer("corhort"))
+user = input("Enter letter")
+print(two_integer(user))
 	

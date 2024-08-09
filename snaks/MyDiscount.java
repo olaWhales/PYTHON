@@ -5,7 +5,6 @@ public class MyDiscount{
 	double result = price * rate;
 	double total = price - result;
 	return total;
-
 }
 	public int happy(int number){	
 
@@ -19,6 +18,4 @@ public class MyDiscount{
 		return number;
 
 }
-
-
 }
