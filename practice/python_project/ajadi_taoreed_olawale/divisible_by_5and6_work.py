@@ -1,7 +1,7 @@
-#prompt the user to enter number
-#check if the number is divisible by both 5 & 6
-#check if the number is divisible by any of the number
-#check if the number is divisible by one number but not both
+# prompt the user to enter number
+# check if the number is divisible by both 5 & 6
+# check if the number is divisible by any of the number
+# check if the number is divisible by one number but not both
 
 
 number = int(input("Enter numbers"))

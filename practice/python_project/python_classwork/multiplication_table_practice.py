@@ -6,7 +6,7 @@ for number in range(1, 13):
 
 
 for count in range(1, 12):
-		(' '):
+		#(' '):
 	for counter in range(1, 12):
 		count * counter
 		print(f'{counter :<2} * {count:<2} = {count * counter : <4}', end=' ')

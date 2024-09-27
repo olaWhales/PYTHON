@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c38ec0cb-0c5c-42ec-95d9-d4c004bf024c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/area_of_circumferences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/divisible_by_5and6_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/feetconvertion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/fine_the_even_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/integer_addition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/integer_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/minutes_in_a_year.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/number_in_String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/phase_gate/checkout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/phase_gate/protester_demand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/reverse_palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/test_area_of_circumferences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/two_integer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ajadi_Taoreed_Olawale/user_input_even_or_odd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/SentinelInJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/SentinelInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/classwork2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/classwork3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/deposit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/multiplication_table_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/randominput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_classwork/vowelletter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/.idea/back_to_sender.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_to_sender/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/class_work.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/class_task/Element_sorting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/class_task/Sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/class_task/class_assessment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/class_task/inputValidation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/test/SequenceTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/test/inputValidationTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_task/test/test_classwork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/arbitrary_argument_no_thirteen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/computer_assisted_instruction_no_fourteen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/cube_no_three.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/date_and_time_no_seven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/fahrenheit_no_nine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/modified_average_function_no_six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/mystery_no_four.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/randominput_modification_no_eleven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/randominput_no_ten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_four/seconds_since_midnight_no_five.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Eight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Five.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Four.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Nine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_One.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Seven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Ten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Three.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/Assignment_Two.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/chapterThree1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/multiple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chapter_two/multiple.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/chpater_three/Exercise_no_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/Student_grade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/biggest_odd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/consonan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/corn_flakes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/divide_square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/element_on_odd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/funcionpractice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/functionpractice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/largest_element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/multiple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/my_discount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/number1_number2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/reverse_no.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elementary_concepts/snaks/vowel_and_consonant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/classwork2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/classwork3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/deposit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/len_of_argument.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/multiplication_table_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/randit_guess_game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/randominput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/Python_classwork/vowelletter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/Circumferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/FeetConvertionInJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/FeetConvertionInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberEight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberEleven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberSeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberSix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberTwelve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/NumberTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/SentinelInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/Trier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/modified_average_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/secondsSinceMidnight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/secondsSinceMidnightTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/python_to_java/totalMilesPerGallon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Eight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Five.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Four.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Nine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_One.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Seven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Ten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Three.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-java code/pythonassignment/Assignment_Two.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/functionTest/testFunction/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/functionTest/testFunction/testFunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/functiontask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/method_for_account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Account/account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Test/accountTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/Test/swaptest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/exercise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/exercise2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/exercise3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject1/exercise4.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mb88E40SkxkPt9AhTkZG95ihEF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.class_assessment.executor": "Run",
+    "Python.divisible_by_5and6_work.executor": "Run",
+    "Python.inputValidation.executor": "Run",
+    "Python.multiplication_table_practice.executor": "Run",
+    "Python.randominput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/DELL USER/Desktop/__init__.py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c38ec0cb-0c5c-42ec-95d9-d4c004bf024c" name="Changes" comment="" />
+      <created>1727333754088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727333754088</updated>
+      <workItem from="1727333755138" duration="954000" />
+      <workItem from="1727336207333" duration="1269000" />
+      <workItem from="1727390628719" duration="1558000" />
+      <workItem from="1727392221552" duration="461000" />
+      <workItem from="1727424373186" duration="1085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
