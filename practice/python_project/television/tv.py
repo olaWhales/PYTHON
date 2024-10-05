@@ -1,7 +1,7 @@
 class Television:
 
     def __init__(self):
-        self.channel = 1
+        self.channel = 100
         self.volume_level = 0
         self.is0n = False
 
@@ -22,6 +22,11 @@ class Television:
             self.channel = channel
         elif not self.isOn:
             self.channel = 1
+
+    # def increase_channel(self):
+    #     self.turn_on()
+    #     self.increase_voloume (100)
+    #
 
     def decrease_channel(self, decrease_channel:int):
         if self.isOn == True and self.channel >= decrease_channel :

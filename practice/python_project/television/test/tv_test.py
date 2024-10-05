@@ -38,12 +38,19 @@ class Test(unittest.TestCase):
         television.set_channel(3)
         self.assertEqual(television.get_channel(), 3)
 
-    def test_if_tv_channel_csn_decrease(self):
+    def test_if_tv_channel_can_decrease(self):
         television = tv.Television()
         television.turn_on()
         television.set_channel(5)
         television.decrease_channel(3)
         self.assertEqual(television.get_channel(), 2)
+
+    # def test_if_tv_channel_can_set_up_to_100(self):
+    #     television = tv.Television()
+    #     television.turn_on()
+    #     television.set_channel(102)
+    #     self.assertEqual(television.get_channel(), 100)
+
 
     def test_if_tv_can_set_volume(self):
         television = tv.Television()
