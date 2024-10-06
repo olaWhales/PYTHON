@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c38ec0cb-0c5c-42ec-95d9-d4c004bf024c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PYTHON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/python_project/television/test/tv_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/python_project/television/test/tv_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/python_project/television/tv.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/python_project/television/tv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/python_project/loan_class/loan.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/python_project/loan_class/loan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/python_project/loan_class/test/loan_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/python_project/loan_class/test/loan_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
     "Python tests.Python tests for TV_test.TVTest.test_if_tv_can_turn_on.executor": "Run",
     "Python tests.Python tests for TV_test.TVTest.test_isOn.executor": "Run",
     "Python tests.Python tests for loan_test.TestLoan.executor": "Run",
+    "Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure.executor": "Run",
     "Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_payment.executor": "Run",
     "Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_yearly_payment_interest.executor": "Run",
     "Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_exist.executor": "Run",
@@ -77,6 +77,7 @@
     "Python.exercise3.executor": "Run",
     "Python.exercise4.executor": "Run",
     "Python.inputValidation.executor": "Run",
+    "Python.loan.executor": "Run",
     "Python.multiplication_table_practice.executor": "Run",
     "Python.randominput.executor": "Run",
     "Python.tv.executor": "Run",
@@ -111,6 +112,22 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;loan_test.TestLoan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -162,29 +179,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for loantest.loanTest.test_amount_loan_to_be_paying_in_month" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/loanClass/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;loantest.loanTest.test_amount_loan_to_be_paying_in_month&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for loan_test.TestLoan" />
-        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_exist" />
-        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_yearly_payment_interest" />
+        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure" />
         <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_payment" />
-        <item itemvalue="Python tests.Python tests for loantest.loanTest.test_amount_loan_to_be_paying_in_month" />
+        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_yearly_payment_interest" />
+        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_exist" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +220,9 @@
       <workItem from="1727956053263" duration="17316000" />
       <workItem from="1727996104779" duration="11669000" />
       <workItem from="1728077933270" duration="4434000" />
-      <workItem from="1728142074726" duration="15150000" />
+      <workItem from="1728142074726" duration="16040000" />
+      <workItem from="1728189655165" duration="1752000" />
+      <workItem from="1728203551066" duration="13960000" />
     </task>
     <servers />
   </component>
@@ -231,10 +234,11 @@
     <SUITE FILE_PATH="coverage/PYTHON$inputValidation.coverage" NAME="inputValidation Coverage Results" MODIFIED="1727432012408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/class_task/class_task" />
     <SUITE FILE_PATH="coverage/PYTHON$Assignment_One.coverage" NAME="Assignment_One Coverage Results" MODIFIED="1727443301931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/elementary_concepts/chapter_two" />
     <SUITE FILE_PATH="coverage/PYTHON$area_of_circumferences.coverage" NAME="area_of_circumferences Coverage Results" MODIFIED="1727443321624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/ajadi_taoreed_olawale" />
-    <SUITE FILE_PATH="coverage/__init___py$.coverage" NAME=" Coverage Results" MODIFIED="1728163995502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+    <SUITE FILE_PATH="coverage/__init___py$.coverage" NAME=" Coverage Results" MODIFIED="1728227150075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/loan_class/test" />
     <SUITE FILE_PATH="coverage/PYTHON$multiplication_table_practice.coverage" NAME="multiplication_table_practice Coverage Results" MODIFIED="1727432073602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/python_classwork" />
     <SUITE FILE_PATH="coverage/__init___py$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1727989342625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/pythonProject1" />
     <SUITE FILE_PATH="coverage/__init___py$Account_Test.coverage" NAME="Account_Test Coverage Results" MODIFIED="1727859849582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/Account" />
+    <SUITE FILE_PATH="coverage/__init___py$loan.coverage" NAME="loan Coverage Results" MODIFIED="1728225952078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/loan_class" />
     <SUITE FILE_PATH="coverage/PYTHON$class_assessment.coverage" NAME="class_assessment Coverage Results" MODIFIED="1727432030594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/class_task/class_task" />
     <SUITE FILE_PATH="coverage/__init___py$tv.coverage" NAME="tv Coverage Results" MODIFIED="1727957332015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/television" />
     <SUITE FILE_PATH="coverage/__init___py$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1727989317331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/pythonProject1" />

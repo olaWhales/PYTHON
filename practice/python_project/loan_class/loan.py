@@ -1,22 +1,23 @@
 class Loan:
 
+    duration_in_month = None
+    principal_loan_amount = None
+
     def __init__(self, name: str, interest_rate, loan_amount, loan_period):
-        self.interest_rate = 0.5
-        self.name = "Olawale"
-        self.loan_amount = 240
-        self.loan_period = 12
+        self.monthly_interest_rate = interest_rate
+        self.name = name
+        self.principal_loan_amount = loan_amount
+        self.duration_in_month = loan_period
 
 
     def get_monthly_interest(self):
-        amount = int(self.loan_amount * self.interest_rate)
-        monthly_payment = int(self.loan_amount + amount)
-        return monthly_payment
+        monthly_interest = (self.monthly_interest_rate / 100) / 12
+        amount = int(self.principal_loan_amount * monthly_interest)
+        denumeration =  1 - (1 / (1 + monthly_interest)) ** self.duration_in_month
+        total_payment = amount / denumeration
+        return round(total_payment,0)
 
-    def get_yearly_interest(self):
-        amount = int(self.loan_amount / self.loan_period)
-        payment = int(self.interest_rate * amount)
-        total_payment = payment + amount
-        return total_payment
+    def compute_total_payment(self):
+        total_to_pay = self.get_monthly_interest() * self.duration_in_month
+        return round(total_to_pay, 0)
 
-    def calculate_loan_repayment(self):
-        ...
