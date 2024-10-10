@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c38ec0cb-0c5c-42ec-95d9-d4c004bf024c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PYTHON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/python_project/loan_class/loan.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/python_project/loan_class/loan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/python_project/loan_class/test/loan_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/python_project/loan_class/test/loan_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,35 @@
     "Python tests.Python tests for TV_test.TVTest.test_if_Tv_class_exists.executor": "Run",
     "Python tests.Python tests for TV_test.TVTest.test_if_tv_can_turn_on.executor": "Run",
     "Python tests.Python tests for TV_test.TVTest.test_isOn.executor": "Run",
+    "Python tests.Python tests for bike_test.BikeTest.executor": "Run",
+    "Python tests.Python tests for bike_test.BikeTest.test_bike_can_be_turned_off.executor": "Run",
+    "Python tests.Python tests for bike_test.BikeTest.test_if_Ac_Can_Turn_Off.executor": "Run",
+    "Python tests.Python tests for bike_test.BikeTest.test_if_bike_can_accelerate_when_moving.executor": "Run",
+    "Python tests.Python tests for bike_test.BikeTest.test_if_bike_can_power_on.executor": "Run",
+    "Python tests.Python tests for bike_test.BikeTest.test_if_bike_class_exist.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_accelerate.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_Can_Turn_Off.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_in_gear_1_without_exceed_20.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_when_moving.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_when_moving_with_gear_1_and_stop_at_20.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_when_moving_with_gear_2_and_stop_at_30.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_with_gear_1.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_with_gear_1_and_increasing_with_1.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_with_gear_1_without_exceed_20.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_accelerate_with_gear_2.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_can_power_on.executor": "Run",
+    "Python tests.Python tests for bike_test.bikeTest.test_if_bike_class_exist.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_Can_Turn_Off.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_1.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_2.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_3.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_4.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_can_power_on.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_cannot_accelerate_over_20_with_gear_1.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_cannot_accelerate_over_40_with_gear_3.executor": "Run",
+    "Python tests.Python tests for bike_test.bike_test.test_if_bike_class_exist.executor": "Run",
     "Python tests.Python tests for loan_test.TestLoan.executor": "Run",
     "Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure.executor": "Run",
     "Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_payment.executor": "Run",
@@ -66,6 +94,7 @@
     "Python tests.Python tests for tv_test.Test.test_if_tv_channel_can_set_up_to_100.executor": "Run",
     "Python tests.Python tests for tv_test.Test.test_if_tv_volume_can_decrease.executor": "Run",
     "Python tests.Python tests for tv_test.Test.test_if_tv_volume_can_increase.executor": "Run",
+    "Python tests.Python tests in bike_test.py.executor": "Run",
     "Python tests.Python tests in swaptest.py.executor": "Run",
     "Python tests.Python tests in tv_test.py.executor": "Run",
     "Python.Account_Test.executor": "Run",
@@ -98,94 +127,94 @@
       <recent name="C:\Users\DELL USER\Desktop\__init__.py\practice\python_project\television\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for loan_test.TestLoan">
-    <configuration name="Python tests for loan_test.TestLoan" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for bike_test.bike_test">
+    <configuration name="Python tests for bike_test.bike_test" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/Bike/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;loan_test.TestLoan&quot;" />
+      <option name="_new_target" value="&quot;bike_test.bike_test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/Bike/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure&quot;" />
+      <option name="_new_target" value="&quot;bike_test.bike_test.test_if_bike_can_accelerate_with_gear_3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_payment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/Bike/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;loan_test.TestLoan.test_if_loan_class_can_get_monthly_payment&quot;" />
+      <option name="_new_target" value="&quot;bike_test.bike_test.test_if_bike_can_accelerate_with_gear_4&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for loan_test.TestLoan.test_if_loan_class_can_get_yearly_payment_interest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for bike_test.bike_test.test_if_bike_cannot_accelerate_over_20_with_gear_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/Bike/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;loan_test.TestLoan.test_if_loan_class_can_get_yearly_payment_interest&quot;" />
+      <option name="_new_target" value="&quot;bike_test.bike_test.test_if_bike_cannot_accelerate_over_20_with_gear_1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for loan_test.TestLoan.test_if_loan_class_exist" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for bike_test.bike_test.test_if_bike_cannot_accelerate_over_40_with_gear_3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYTHON" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/python_project/Bike/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;loan_test.TestLoan.test_if_loan_class_exist&quot;" />
+      <option name="_new_target" value="&quot;bike_test.bike_test.test_if_bike_cannot_accelerate_over_40_with_gear_3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for loan_test.TestLoan" />
-        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_expenditure" />
-        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_monthly_payment" />
-        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_can_get_yearly_payment_interest" />
-        <item itemvalue="Python tests.Python tests for loan_test.TestLoan.test_if_loan_class_exist" />
+        <item itemvalue="Python tests.Python tests for bike_test.bike_test" />
+        <item itemvalue="Python tests.Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_4" />
+        <item itemvalue="Python tests.Python tests for bike_test.bike_test.test_if_bike_cannot_accelerate_over_40_with_gear_3" />
+        <item itemvalue="Python tests.Python tests for bike_test.bike_test.test_if_bike_can_accelerate_with_gear_3" />
+        <item itemvalue="Python tests.Python tests for bike_test.bike_test.test_if_bike_cannot_accelerate_over_20_with_gear_1" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +252,10 @@
       <workItem from="1728142074726" duration="16040000" />
       <workItem from="1728189655165" duration="1752000" />
       <workItem from="1728203551066" duration="13960000" />
+      <workItem from="1728228229146" duration="149000" />
+      <workItem from="1728457717377" duration="7199000" />
+      <workItem from="1728480250070" duration="352000" />
+      <workItem from="1728506917034" duration="24068000" />
     </task>
     <servers />
   </component>
@@ -234,7 +267,7 @@
     <SUITE FILE_PATH="coverage/PYTHON$inputValidation.coverage" NAME="inputValidation Coverage Results" MODIFIED="1727432012408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/class_task/class_task" />
     <SUITE FILE_PATH="coverage/PYTHON$Assignment_One.coverage" NAME="Assignment_One Coverage Results" MODIFIED="1727443301931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/elementary_concepts/chapter_two" />
     <SUITE FILE_PATH="coverage/PYTHON$area_of_circumferences.coverage" NAME="area_of_circumferences Coverage Results" MODIFIED="1727443321624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/ajadi_taoreed_olawale" />
-    <SUITE FILE_PATH="coverage/__init___py$.coverage" NAME=" Coverage Results" MODIFIED="1728227150075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/loan_class/test" />
+    <SUITE FILE_PATH="coverage/__init___py$.coverage" NAME=" Coverage Results" MODIFIED="1728539495222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/Bike/test" />
     <SUITE FILE_PATH="coverage/PYTHON$multiplication_table_practice.coverage" NAME="multiplication_table_practice Coverage Results" MODIFIED="1727432073602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/python_classwork" />
     <SUITE FILE_PATH="coverage/__init___py$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1727989342625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/pythonProject1" />
     <SUITE FILE_PATH="coverage/__init___py$Account_Test.coverage" NAME="Account_Test Coverage Results" MODIFIED="1727859849582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_project/Account" />
