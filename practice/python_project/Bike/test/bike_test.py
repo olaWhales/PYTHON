@@ -64,6 +64,32 @@ class bike_test(unittest.TestCase):
         current_speed = bc.acceleration_on_4(4,44)
         self.assertEqual(current_speed , 48)
 
+    def test_if_bike_decelerate_while_on_gear_1(self):
+        bc = bike.Auto_bike()
+        start = bc.turn_on()
+        self.assertTrue(bc.switch)
+        current_speed = bc.deceleration_on_1(1,20)
+        self.assertEqual(current_speed , 19)
 
 
-    #
+    def test_if_bike_decelerate_while_on_gear_2(self):
+        bc = bike.Auto_bike()
+        start = bc.turn_on()
+        self.assertTrue(bc.switch)
+        current_speed = bc.deceleration_on_2(2,28)
+        self.assertEqual(current_speed , 26)
+
+    def test_if_bike_decelerate_while_on_gear_3(self):
+        bc = bike.Auto_bike()
+        start = bc.turn_on()
+        self.assertTrue(bc.switch)
+        current_speed = bc.deceleration_on_3(3,36)
+        self.assertEqual(current_speed , 33)
+
+    def test_if_bike_decelerate_while_on_gear_4(self):
+        bc = bike.Auto_bike()
+        start = bc.turn_on()
+        self.assertTrue(bc.switch)
+        current_speed = bc.deceleration_on_4(4,48)
+        self.assertEqual(current_speed , 44)
+

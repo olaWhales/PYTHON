@@ -23,11 +23,6 @@ class Television:
         elif not self.isOn:
             self.channel = 1
 
-    # def increase_channel(self):
-    #     self.turn_on()
-    #     self.increase_voloume (100)
-    #
-
     def decrease_channel(self, decrease_channel:int):
         if self.isOn == True and self.channel >= decrease_channel :
             self.channel -= decrease_channel

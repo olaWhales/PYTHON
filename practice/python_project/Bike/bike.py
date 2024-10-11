@@ -58,6 +58,35 @@ class Auto_bike:
                 return self.speed
 
 
+    def deceleration_on_1(self, gear_speed , speed):
+        self.turned_on = True
+        if gear_speed == 1:
+            if 0 < speed <= 20:
+                self.speed = speed - 1
+                return self.speed
+
+    def deceleration_on_2(self, gear_speed, speed):
+        self.turned_on = True
+        if gear_speed == 2:
+            if 20 < speed <= 30:
+                self.speed = speed - 2
+                return self.speed
+
+    def deceleration_on_3(self, gear_speed, speed):
+        self.turned_on = True
+        if gear_speed == 3:
+            if 30 < speed <= 40:
+                self.speed = speed - 3
+                return self.speed
+
+    def deceleration_on_4(self, gear_speed, speed):
+        self.turned_on = True
+        if gear_speed == 4:
+            if 40 < speed <= 1000:
+                self.speed = speed - 4
+                return self.speed
+
+
 
 
 
