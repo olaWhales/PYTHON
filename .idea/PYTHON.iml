@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/practice/python_project/Air_condition/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/practice/python_project/queue_work/queue" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/practice/python_project/stack_work/stack" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/practice/python_project/meal_burger/meal_burger_test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/practice/python_project/television/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/practice/python_project/television/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
